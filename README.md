@@ -5,8 +5,9 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building websites.
 
 - 🔭 I’m currently a CS student at Global Academy Of Technology.
-- 📚 I’m currently learning  frontend web development using ReactJS, NodeJS, SaaS, BootStrap.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin]() [Gmail](mailto:anujjadhav4122@gmail.com)
+- 📚 I’m currently learning  frontend web development using ReactJS, NodeJS, BootStrap.
+- 👯 I’m looking for a software development internship.
+- I have also completed my certifications in Generative AI with ChatGPT
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/anuj-jadhav-a6456b260) [Gmail](mailto:anujjadhav4122@gmail.com)
 
 ⭐️ From [anujjadhav](https://github.com/hazemessam)
