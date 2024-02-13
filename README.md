@@ -1,4 +1,6 @@
 # ANUJ JADHAV
+<img src="./octocat-1707853390981.png" alt="Git-cat" width="500" height="500" align="center"/>
+
 
 ## About Me
 - 🔭 &nbsp; I’m currently learning Web Development<br>
@@ -11,7 +13,7 @@
 
 
 ## SKILLS
-<p align="left">
+<p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  alt="css3" width="60" height="60" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="60" height="60" />
@@ -34,7 +36,8 @@
           
 </p>
 
-
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogue110&theme=tokyonight)
 
 
 ## Contact
